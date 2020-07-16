@@ -24,9 +24,9 @@
 #VARs
 
 #SMTP Host
-$SMTPHost = "smtp.thaitv3.com"
+$SMTPHost = "smtp.example.com"
 #Who is the e-mail from
-$FromEmail = "helpdesk555@thaitv3.com"
+$FromEmail = "helpdesk@example.com"
 #Password expiry days
 $expireindays = 1 
 
@@ -158,11 +158,11 @@ The new password must meet the minimum requirements set forth in our corporate p
 		d.  Symbols (!@#$%^&*...)
 	3.	It cannot match any of your past 5 passwords.
 
-If you have any questions please contact our Support team at helpdesk555@thaitv3.com or call us at Ext. 555 or 0-2022-7447
+If you have any questions please contact our Support team at helpdesk@example.com or call us at Ext. 555 or 0-2022-7447
 
 Thanks,
 Helpdesk Team
-helpdesk555@thaitv3.com
+helpdesk@example.com
 0-2022-7447"
 		Write-Host "Sending E-mail to $emailaddress..." -ForegroundColor Green
 		Try
