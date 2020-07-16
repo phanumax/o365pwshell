@@ -158,12 +158,12 @@ The new password must meet the minimum requirements set forth in our corporate p
 		d.  Symbols (!@#$%^&*...)
 	3.	It cannot match any of your past 5 passwords.
 
-If you have any questions please contact our Support team at helpdesk@example.com or call us at Ext. 555 or 0-2022-7447
+If you have any questions please contact our Support team at helpdesk@example.com or call us at Ext. 555 or 0-5555-5555
 
 Thanks,
 Helpdesk Team
 helpdesk@example.com
-0-2022-7447"
+00-5555-5555"
 		Write-Host "Sending E-mail to $emailaddress..." -ForegroundColor Green
 		Try
 		{
