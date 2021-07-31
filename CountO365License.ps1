@@ -120,7 +120,8 @@ $Sku = @{
 "DYN365_TEAM_MEMBERS"			     = "Dynamics 365 Team Members"
 "STREAM"							 = "Microsoft Stream Trial"
 "EMSPREMIUM"                         = "ENTERPRISE MOBILITY + SECURITY E5"
-"POWERAPPS_VIRAL"         = "Microsoft PowerApps Plan 2 Trial"
+"POWERAPPS_VIRAL"                    = "Microsoft PowerApps Plan 2 Trial"
+"TEAMS_EXPLORATORY"                  = "Teams Exploratory"
 }
 # $Cred = Get-Credential
 # Connect-MsolService -Credential $Cred
